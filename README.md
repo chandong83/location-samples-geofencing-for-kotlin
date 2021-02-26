@@ -1,3 +1,6 @@
+
+This project coverts https://github.com/android/location-samples/tree/master/Geofencing to Kotlin.
+
 Creating and Monitoring Geofences
 =================================
 
