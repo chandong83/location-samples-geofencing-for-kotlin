@@ -1,8 +1,9 @@
 
-This project coverts https://github.com/android/location-samples/tree/master/Geofencing to Kotlin.
-
 Creating and Monitoring Geofences
 =================================
+
+### This project coverts https://github.com/android/location-samples/tree/master/Geofencing to Kotlin.
+
 
 Demonstrates how to create and remove geofences using the
 [GeofencingApi](https://developer.android.com/reference/com/google/android/gms/location/GeofencingApi.html).
